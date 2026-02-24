@@ -4,7 +4,7 @@ This repository contains an exploratory data analysis (EDA) project that examine
 # Student Performance Exploratory Data Analysis
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/Aya_Ibrahim_Al_Sayed1.ipynb)
+([https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/Aya_Ibrahim_Al_Sayed1.ipynb](https://colab.research.google.com/github/Aya122221/Analyzing-Student-Performance-with-Python/blob/main/project.ipynb))
 
 ## 📌 Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on a student performance dataset using **Python**.  
